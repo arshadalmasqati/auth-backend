@@ -5,9 +5,12 @@
 #### Server starts at URL `localhost:8000`
 
 ### TODO:
-
-Spec files
-
-Documentation: DOCS.md
-
-Code Clean
+<li>
+  Tests
+</li>
+<li>
+    Spec files
+</li>
+<li>  Documentation: DOCS.md  
+</li>
+  <li>Code Clean</li>
